@@ -1,0 +1,25 @@
+data_publicacao,portal,titulo,modalidade,tipo_conteudo,turno_publicacao,visualizacoes,usuarios_unicos,tempo_medio_segundos,curtidas,comentarios,compartilhamentos,cliques_relacionados,novos_assinantes,receita_publicitaria
+2026-10-01,Site,Clássico nacional movimenta a rodada,Futebol,Notícia,Manhã,52000,43000,78,1200,180,310,4100,145,4300
+2026-10-01,Site,Como o basquete mudou sua defesa,Basquete,Análise,Tarde,28000,22500,150,720,140,260,2300,92,2500
+2026-10-01,YouTube,Capitã fala sobre preparação para a final,Vôlei,Entrevista,Noite,18000,14500,275,980,195,410,1900,105,2300
+2026-10-01,Site,Bastidores da equipe antes do grande prêmio,Automobilismo,Reportagem,Tarde,24000,19500,220,650,120,300,2500,120,3800
+2026-10-05,YouTube,Os melhores lances do fim de semana,Futebol,Vídeo,Noite,68000,55000,210,2600,350,620,5300,190,5200
+2026-10-05,Site,Time confirma reforço para a temporada,Basquete,Notícia,Manhã,31000,25500,75,810,115,230,2100,70,2200
+2026-10-05,Site,O saque que decidiu as últimas partidas,Vôlei ,Análise,Tarde,16000,12800,185,760,155,340,1700,90,2000
+2026-10-05,YouTube,Volta rápida comentada por especialista,Automobilismo,Vídeo,Noite,29000,23500,260,900,170,390,3000,145,4400
+2026-10-09,Site,Pressão alta explica vitória no clássico,Futebol,Análise,Tarde,43000,35000,165,980,210,420,3900,175,4100
+2026-10-09,YouTube,Armador revela rotina de treinamento,Basquete,Entrevista,Noite,26000,21000,260,1050,180,390,2400,115,3100
+2026-10-09,Site,Seleção anuncia convocadas para amistosos,Vôlei,Notícia,Manhã,21000,17000,88,1100,230,460,2200,118,2500
+2026-10-09,Newsletter,Calendário da próxima etapa é divulgado,Automobilismo,Notícia,Manhã,20000,16500,95,480,80,220,2100,105,3400
+2026-10-13,Site,A formação de jovens talentos nos clubes,Futebol,Reportagem,Noite,39000,31500,240,880,170,510,3500,160,4500
+2026-10-13,YouTube,Top 10 jogadas da rodada nacional,Basquete,Vídeo,Noite,34000,27500,225,1350,220,470,2900,130,3400
+2026-10-13,Site,Torcida transforma ginásio em caldeirão,Vôlei,Reportagem,Tarde,19500,15500,250,1050,205,500,2150,126,2800
+2026-10-13,Site,Estratégia de pneus define resultado,Automobilismo,Análise,Tarde,26000,21000,205,700,135,320,2800,138,4200
+2026-10-17,Instagram,Gol nos acréscimos domina as redes,Futebol,Notícia,Tarde,75000,64000,62,3100,410,750,4800,125,3600
+2026-10-17,Site,Projeto social forma atletas na periferia,Basquete,Reportagem,Tarde,30000,24000,230,920,160,360,2700,122,3300
+2026-10-17,YouTube,Rali mais longo da partida em detalhes,Vôlei,Vídeo,Noite,24000,19000,310,1500,280,620,2600,145,3200
+2026-10-17,YouTube,Piloto comenta disputa pelo pódio,Automobilismo,Entrevista,Noite,23000,18500,,820,145,350,2600,130,3900
+2026-10-21,YouTube,Técnico explica mudanças para a decisão,Futebol,Entrevista,Noite,47000,38000,285,1700,260,590,4200,180,4800
+2026-10-21,Newsletter,Dados revelam evolução ofensiva da equipe,Basquete,Análise,Manhã,22000,18500,175,610,95,210,2000,88,2600
+2026-10-21,Instagram,Vitória no tie-break gera repercussão,Vôlei,Notícia,Tarde,27000,22000,70,1800,330,700,2400,108,2600
+2026-10-21,Site,Tecnologia nos boxes reduz tempo de parada,Automobilismo,Reportagem,Manhã,27000,22000,245,780,150,410,3100,155,4700
